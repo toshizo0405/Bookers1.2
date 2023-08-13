@@ -48,3 +48,10 @@ libel {
   display: block;
 }
 
+p.notice{
+  color: green;
+}
+
+p.danger{
+  color: red;
+}
